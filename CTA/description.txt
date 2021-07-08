@@ -1,0 +1,2 @@
+RB8888.csv: rb futures minutes bar data
+strategy_backtest_sample1.ipynb: notebook for class presentation
